@@ -1,5 +1,11 @@
 # tuto-tdd-php
 
+## Run the project
+
+Pour lancer le projet : `php -S localhost:3000` et accéder au site via l'URL [localhost:3000/index.php?name=Mushu](localhost:3000/index.php?name=Mushu)
+
+## Dev
+
 Librairies pour les tests unitaires PHP :
 
 - **PHP Unit** [phpunit/phpunit](https://packagist.org/packages/phpunit/phpunit) qui permet de run des tests `./vendor/bin/phpunit tests --colors=always`
